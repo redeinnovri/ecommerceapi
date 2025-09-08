@@ -2878,7 +2878,7 @@
   "Produto": "Máquinas Diagnóstico",
   "Descricao": "DS580E Tablet And Bluetech",
   "NomeComercial": "DS580E Tablet And Bluetech",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Logo%20Delphi.jpg",
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/DS580_KIT.png",
   "ArtigoRelacionado": "Acresce Licença Car Bluetech e/ou HD Bluetech",
   "FichaTecnica": "../assets/pdf/DS580Tablet.pdf"
  },
@@ -2890,7 +2890,7 @@
   "Produto": "Máquinas Diagnóstico",
   "Descricao": "DS380E Tablet And Bluetech",
   "NomeComercial": "DS380E Tablet And Bluetech",
-  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Logo%20Delphi.jpg",
+  "imgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/DS580_KIT.png",
   "ArtigoRelacionado": "Acresce Licença Car Bluetech e/ou HD Bluetech",
   "FichaTecnica": "../assets/pdf/DS380Tablet.pdf"
  }
