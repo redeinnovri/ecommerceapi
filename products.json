@@ -1,0 +1,98 @@
+[
+	{
+		"id": 1,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988396/Products/filtro_1.jpg",
+		"name": "BEDROOM",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	},
+	{
+		"id": 2,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988395/Products/Filtro_2.jpg",
+		"name": "OFFICE",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	},
+	{
+		"id": 3,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988395/Products/Parafusos.jpg",
+		"name": "LIGHTING",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	},
+	{
+		"id": 4,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988393/Products/Ferramenta.jpg",
+		"name": "BATHROOM",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	},
+	{
+		"id": 5,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988393/Products/minibomba.jpg",
+		"name": "KITCHEN",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	},
+	{
+		"id": 6,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988392/Products/limpinjetores.jpg",
+		"name": "INTERIOR",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	},
+	{
+		"id": 7,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988391/Products/roquete.avif",
+		"name": "LIVING ROOM",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	},
+	{
+		"id": 8,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988390/Products/bomba_ar.jpg",
+		"name": "DECOR",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	},
+	{
+		"id": 9,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988389/Products/bombito.jpg",
+		"name": "LIVING ROOM",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	},
+	{
+		"id": 10,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988388/Products/acmaquina.jpg",
+		"name": "SOFA",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	},
+	{
+		"id": 11,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988388/Products/acinterr.png",
+		"name": "LIVING ROOM",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	},
+	{
+		"id": 13,
+		"img": "https://res.cloudinary.com/dkgaiugu4/image/upload/v1710988397/Products/acmotor.webp",
+		"name": "SOFA",
+		"ref": "#123456A",
+		"desc": "Descrição artigo",
+		"price": "55.00"
+	}
+]

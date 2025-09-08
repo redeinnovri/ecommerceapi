@@ -1,0 +1,302 @@
+[
+ {
+  "Id": 1,
+  "Titulo": "expoMecânica Kroftools",
+  "Descricao": "Campanha Kroftools expoMecânica - Novembro 2024",
+  "DataInicio": "2024-11-01",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_kroft.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha Kroftools expoMECÂNICA Novembro 2024.pdf"
+ },
+ {
+  "Id": 2,
+  "Titulo": "expoMecânica AUTEL",
+  "Descricao": "Campanha AUTEL expoMecânica - 25 Out. a 15 Nov. 2024",
+  "DataInicio": "2024-10-25",
+  "DataFim": "2024-11-16",
+  "Destaque": 0,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha AUTEL expoMECÂNICA Novembro 2024.pdf"
+ },
+ {
+  "Id": 3,
+  "Titulo": "expoMecânica HaynesPro",
+  "Descricao": "Campanha HaynesPro expoMecânica - Novembro 2024",
+  "DataInicio": "2024-11-01",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_haynes.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha HAYNES PRO expoMECÂNICA Novembro 2024_rev02.pdf"
+ },
+ {
+  "Id": 4,
+  "Titulo": "expoMecânica CTR",
+  "Descricao": "Campanha CTR expoMecânica - 8 a 30 Novembro 2024",
+  "DataInicio": "2024-11-08",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_ctr.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha CTR expoMECÂNICA Novembro 2024_rev02.pdf"
+ },
+ {
+  "Id": 5,
+  "Titulo": "expoMecânica JBM",
+  "Descricao": "Campanha JBM expoMecânica - Novembro 2024",
+  "DataInicio": "2024-11-01",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_jbm.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha JBM expoMECÂNICA Novembro 2024.pdf"
+ },
+ {
+  "Id": 6,
+  "Titulo": "expoMecânica WIGAM",
+  "Descricao": "Campanha WIGAM expoMecânica - 8 a 30 Novembro 2024",
+  "DataInicio": "2024-11-08",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_wigam.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha WIGAM expoMECÂNICA Novembro 2024_rev02.pdf"
+ },
+ {
+  "Id": 7,
+  "Titulo": "expoMecânica CallCenter + HAYNES PRO",
+  "Descricao": "Campanha CallCenter + HAYNES PRO expoMecânica - Novembro 2024",
+  "DataInicio": "2024-11-01",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expomecanica_callcenter.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha_CallCenter_HAYNES_PRO_expoMECÂNICA_Novembro_2024_Rev02.pdf"
+ },
+ {
+  "Id": 8,
+  "Titulo": "expoMecânica DELPHI",
+  "Descricao": "Campanha DELPHI - 8 a 30 Novembro 2024",
+  "DataInicio": "2024-11-08",
+  "DataFim": "2024-11-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/expo_delphi.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha DELPHI expoMECÂNICA Novembro 2024.pdf"
+ },
+ {
+  "Id": 9,
+  "Titulo": "Campanha AUTEL",
+  "Descricao": "Campanha AUTEL - 25 Nov. a 20 Dez. 2024",
+  "DataInicio": "2024-11-25",
+  "DataFim": "2024-12-20",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/RED - 3 0 - EOY 2024.pdf"
+ },
+ {
+  "Id": 10,
+  "Titulo": "Campanha BENDIX",
+  "Descricao": "Campanha BENDIX - Dezembro 2024",
+  "DataInicio": "2024-12-01",
+  "DataFim": "2024-12-31",
+  "Destaque": 0,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_bendix.png",
+  "PdfUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/Bendix_Dezembro.jpg"
+ },
+ {
+  "Id": 11,
+  "Titulo": "Campanha Natal JBM",
+  "Descricao": "Campanha Natal JBM - Dezembro 2024",
+  "DataInicio": "2024-12-01",
+  "DataFim": "2024-12-31",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/jbm_natal.png",
+  "PdfUrl": "../assets/pdf/campanhas/PT_FOLLETO SETS NAVIDAD 2024_V2_LQ.pdf"
+ },
+ {
+  "Id": 12,
+  "Titulo": "Campanha AUTEL",
+  "Descricao": "Campanha AUTEL - Jan & Fev 2025",
+  "DataInicio": "2025-01-01",
+  "DataFim": "2025-02-28",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/red30JANFEV2025.pdf"
+ },
+ {
+  "Id": 13,
+  "Titulo": "Campanha Kroftools",
+  "Descricao": "Campanha Kroftools - 5 a 28 Fev 2025",
+  "DataInicio": "2025-02-05",
+  "DataFim": "2025-02-28",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
+  "PdfUrl": "../assets/pdf/campanhas/CampanhaKroftoolsFev25.pdf"
+ },
+ {
+  "Id": 14,
+  "Titulo": "Campanha JBM",
+  "Descricao": "Campanha JBM - 7 a 28 Fev 2025",
+  "DataInicio": "2025-02-07",
+  "DataFim": "2025-02-28",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/jbm.png",
+  "PdfUrl": "../assets/pdf/campanhas/CampanhaJBMFev25.pdf"
+ },
+ {
+  "Id": 15,
+  "Titulo": "Campanha AUTEL",
+  "Descricao": "Campanha AUTEL - Fev a Abr 2025",
+  "DataInicio": "2025-02-01",
+  "DataFim": "2025-04-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/red-30-FEV-ABR2025.pdf"
+ },
+ {
+  "Id": 16,
+  "Titulo": "Campanha Kroftools",
+  "Descricao": "Campanha Kroftools - 5 a 31 Mar 2025",
+  "DataInicio": "2025-03-05",
+  "DataFim": "2025-03-31",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
+  "PdfUrl": "../assets/pdf/campanhas/CampanhaKroftoolsMar25.pdf"
+ },
+ {
+  "Id": 17,
+  "Titulo": "Campanha JBM",
+  "Descricao": "Campanha JBM - Abril 2025",
+  "DataInicio": "2025-04-01",
+  "DataFim": "2025-04-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/jbm.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha_JBM_Abr25.pdf"
+ },
+ {
+  "Id": 18,
+  "Titulo": "Campanha Kroftools",
+  "Descricao": "Campanha Kroftools - Abril 2025",
+  "DataInicio": "2025-04-01",
+  "DataFim": "2025-04-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha_Kroftools_Abr25.pdf"
+ },
+ {
+  "Id": 19,
+  "Titulo": "Campanha MANN-FILTER",
+  "Descricao": "Campanha MANN-FILTER - Abril 2025",
+  "DataInicio": "2025-04-01",
+  "DataFim": "2025-04-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/mann-filter.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha_Abril_Localizador.pdf"
+ },
+ {
+  "Id": 20,
+  "Titulo": "Campanha Kroftools",
+  "Descricao": "Campanha Kroftools - Maio 2025",
+  "DataInicio": "2025-05-01",
+  "DataFim": "2025-05-31",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
+  "PdfUrl": "../assets/pdf/campanhas/Kroftools_Mai25.pdf"
+ },
+ {
+  "Id": 21,
+  "Titulo": "Campanha AUTEL",
+  "Descricao": "Campanha AUTEL - Maio a Junho 2025",
+  "DataInicio": "2025-05-01",
+  "DataFim": "2025-06-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/RED_AUTEL_MAIO_JUN_2025.pdf"
+ },
+ {
+  "Id": 22,
+  "Titulo": "Campanha WIGAM",
+  "Descricao": "Campanha WIGAM - Até 31 Julho 2025",
+  "DataInicio": "2025-05-01",
+  "DataFim": "2025-07-31",
+  "Destaque": 1,
+  "ImgUrl": "https://achedosol.com/wp-content/uploads/2023/03/wigam.jpg",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha_Wigam.pdf"
+ },
+ {
+  "Id": 23,
+  "Titulo": "Campanha CTR",
+  "Descricao": "Campanha CTR - Até 31 Julho 2025",
+  "DataInicio": "2025-05-01",
+  "DataFim": "2025-07-31",
+  "Destaque": 1,
+  "ImgUrl": "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1407825200/d66ensoxanphb7sar0gn.png",
+  "PdfUrl": "../assets/pdf/campanhas/Campanha_CTR.pdf"
+ },
+ {
+  "Id": 24,
+  "Titulo": "Campanha JBM",
+  "Descricao": "Campanha JBM - Junho 2025",
+  "DataInicio": "2025-06-02",
+  "DataFim": "2025-06-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/jbm.png",
+  "PdfUrl": "../assets/pdf/campanhas/CampanhaJBMJun25.pdf"
+ },
+ {
+  "Id": 25,
+  "Titulo": "Campanha Kroftools",
+  "Descricao": "Campanha Kroftools - Junho 2025",
+  "DataInicio": "2025-06-02",
+  "DataFim": "2025-06-30",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
+  "PdfUrl": "../assets/pdf/campanhas/CampanhaKroftoolsJun25.pdf"
+ },
+ {
+  "Id": 26,
+  "Titulo": "Campanha Kroftools",
+  "Descricao": "Campanha Kroftools - Julho 2025",
+  "DataInicio": "2025-07-01",
+  "DataFim": "2025-07-31",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_kroftools.png",
+  "PdfUrl": "../assets/pdf/campanhas/KROFToolsJulho25.pdf"
+ },
+ {
+  "Id": 27,
+  "Titulo": "Campanha CGA - Escovas",
+  "Descricao": "Campanha CGA ESCOVAS - Julho 2025",
+  "DataInicio": "2025-07-01",
+  "DataFim": "2025-07-31",
+  "Destaque": 1,
+  "ImgUrl": "https://oficinascga.com/img/logo_cga_slogan_atr.png",
+  "PdfUrl": "../assets/pdf/campanhas/PromocaoEscovasCGAPT.pdf"
+ },
+ {
+  "Id": 28,
+  "Titulo": "Campanha WIX",
+  "Descricao": "Campanha WIX - Julho 2025",
+  "DataInicio": "2025-07-01",
+  "DataFim": "2025-07-31",
+  "Destaque": 1,
+  "ImgUrl": "https://completefilter.com/cdn/shop/collections/Brands_WixFilters_444x300.png?v=1540926643",
+  "PdfUrl": "../assets/pdf/campanhas/wixJULHO2025.png"
+ },
+ {
+  "Id": 29,
+  "Titulo": "Campanha AUTEL",
+  "Descricao": "Campanha AUTEL - Jul/Ago 2025",
+  "DataInicio": "2025-07-01",
+  "DataFim": "2025-08-31",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/autelJULAGO2025.pdf"
+ },
+ {
+  "Id": 30,
+  "Titulo": "Campanha AUTEL",
+  "Descricao": "Campanha AUTEL - SET/OUT 2025",
+  "DataInicio": "2025-08-01",
+  "DataFim": "2025-10-31",
+  "Destaque": 1,
+  "ImgUrl": "https://raw.githubusercontent.com/redeinnovri/catalogo/refs/heads/main/assets/images/campanha_autel.png",
+  "PdfUrl": "../assets/pdf/campanhas/RED_30_SET_OUT_2025.pdf"
+ }
+ ]
